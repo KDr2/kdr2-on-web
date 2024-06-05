@@ -1,0 +1,11 @@
+.versionbox {
+    display: none;
+}
+
+ul {
+    margin: 0 0 1em 0;
+}
+
+li p {
+    margin: 0 0 0 0;
+}
