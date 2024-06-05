@@ -4,16 +4,18 @@
 
 @title[#:style favicon]{The Little Idler}
 
-@bold{Foreword}
+@centered{@bold{Foreword}}
 
 Life as a book.
 
-@bold{Table of Contents:}
+@centered{@bold{Table of Contents}}
 
 @local-table-of-contents[]
+@;; local-table-of-contents[#:style 'immediate-only]
 
 @;; ---------
 @include-section{preface.scrbl}
 @include-section{whims.scrbl}
-@include-section{articles.scrbl}
+@include-section{essays.scrbl}
+@include-section{projects.scrbl}
 @include-section{appendices.scrbl}

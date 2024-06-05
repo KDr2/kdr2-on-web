@@ -4,4 +4,4 @@
 
 @title[#:style favicon]{Appendices}
 
-@include-section{about.scrbl}
+@include-section{appendices/about.scrbl}

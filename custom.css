@@ -9,3 +9,11 @@ ul {
 li p {
     margin: 0 0 0 0;
 }
+
+code {
+    display: inline-block;
+    background-color: #e7edf3;
+    padding: 1px 5px;
+    border-radius: 3px;
+    line-height: normal;
+}

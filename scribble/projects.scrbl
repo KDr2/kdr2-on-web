@@ -2,4 +2,4 @@
 
 @(require "../rkt/main.rkt")
 
-@title[#:style favicon]{Articles}
+@title[#:style favicon]{Projects}

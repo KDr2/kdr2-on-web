@@ -4,7 +4,7 @@
 (require scribble/html-properties)
 
 (provide file-content ext-image favicon
-         div script)
+         div script icode)
 
 ;; text
 (define (file-content path)
@@ -61,3 +61,10 @@
                (list (make-alt-tag "script")
                      (make-attributes `((src . ,link)))))
    ""))
+
+(define (icode . c)
+  (make-element
+   (make-style #f
+               (list (make-alt-tag "code")
+                     (make-attributes '((class . "inline-code")))))
+   (apply string-append c)))
