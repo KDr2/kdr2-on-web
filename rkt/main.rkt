@@ -3,10 +3,46 @@
 (require scribble/core)
 (require scribble/html-properties)
 
-(provide file-content ext-image favicon
-         div script icode)
+(provide favicon div script icode cblock
+         file-content ext-image)
 
-;; text
+;; basic elements
+(define favicon (make-style
+                 'favicon
+                 (list (head-extra
+                        '(link ([rel "shortcut icon"]
+                                [type "image/png"]
+                                [href "https://res.cloudinary.com/kdr2/image/upload/img-kdr2-com/main/k-favicon.png"]))))))
+
+(define (div id)
+  (make-element
+   (make-style #f
+               (list (make-alt-tag "div")
+                     (make-attributes `((id . ,id)))))
+   ""))
+
+(define (script link)
+  (make-element
+   (make-style #f
+               (list (make-alt-tag "script")
+                     (make-attributes `((src . ,link)))))
+   ""))
+
+(define (icode . code)
+  (make-element
+   (make-style #f
+               (list (make-alt-tag "code")
+                     (make-attributes '((class . "inline-code")))))
+   (apply string-append code)))
+
+(define (cblock . clines)
+  (make-element
+   (make-style #f
+               (list (make-alt-tag "pre")
+                     (make-attributes '((class . "code-block")))))
+   (apply string-append clines)))
+
+;; file and text
 (define (file-content path)
   (string-join (file->lines path) "\n"))
 
@@ -39,32 +75,3 @@
                        (make-attributes `((href . ,link)
                                           (target . "_blank")))))
      (ext-image-no-link width path))))
-
-
-(define favicon (make-style
-                 'favicon
-                 (list (head-extra
-                        '(link ([rel "shortcut icon"]
-                                [type "image/png"]
-                                [href "https://res.cloudinary.com/kdr2/image/upload/img-kdr2-com/main/k-favicon.png"]))))))
-
-(define (div id)
-  (make-element
-   (make-style #f
-               (list (make-alt-tag "div")
-                     (make-attributes `((id . ,id)))))
-   ""))
-
-(define (script link)
-  (make-element
-   (make-style #f
-               (list (make-alt-tag "script")
-                     (make-attributes `((src . ,link)))))
-   ""))
-
-(define (icode . c)
-  (make-element
-   (make-style #f
-               (list (make-alt-tag "code")
-                     (make-attributes '((class . "inline-code")))))
-   (apply string-append c)))

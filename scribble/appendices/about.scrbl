@@ -4,4 +4,10 @@
 
 @title[#:style favicon]{About}
 
-This page shows things about me, my interests, and this site.
+@itemlist[
+
+@item{Location: Xi'an, Shaanxi, China.}
+@item{Email: killian.zhuo%gmail.com, or zhuo.dev%gmail.com.}
+@item{Mobile: +86 0b10111010 0o5532 0x0636}
+
+]

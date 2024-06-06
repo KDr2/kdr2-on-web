@@ -17,5 +17,6 @@ Life as a book.
 @include-section{preface.scrbl}
 @include-section{whims.scrbl}
 @include-section{essays.scrbl}
+@include-section{josh.scrbl}
 @include-section{projects.scrbl}
 @include-section{appendices.scrbl}
