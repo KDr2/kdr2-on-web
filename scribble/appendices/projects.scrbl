@@ -1,6 +1,6 @@
 #lang scribble/manual
 
-@(require "../rkt/main.rkt")
+@(require "../../rkt/main.rkt")
 
 @title[#:style favicon]{Projects}
 

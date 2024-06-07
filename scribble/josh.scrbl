@@ -4,6 +4,10 @@
 
 @title[#:style favicon]{Josh}
 
+My kid, Josh, is a brilliant boy. I jot down funny and happy moments
+we've experienced in this chapter. Also, Josh has
+@hyperlink["https://joshinbrackets.com/"]{his own website}.
+
 @section{Force cubes}
 
 [2022-09-11]
