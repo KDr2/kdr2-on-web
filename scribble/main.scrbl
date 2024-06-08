@@ -4,6 +4,8 @@
 
 @title[#:style favicon]{He who doesn't blend in.}
 
+@author{Killian Q. Zhuo}
+
 @centered{@bold{Foreword}}
 
 If life were to be a book, how would you like to write it?

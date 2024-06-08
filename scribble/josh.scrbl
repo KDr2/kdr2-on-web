@@ -2,7 +2,7 @@
 
 @(require "../rkt/main.rkt")
 
-@title[#:style favicon]{Josh}
+@title[#:style favicon #:tag "josh"]{Go, Josh!}
 
 My kid, Josh, is a brilliant boy. I jot down funny and happy moments
 we've experienced in this chapter. Also, Josh has

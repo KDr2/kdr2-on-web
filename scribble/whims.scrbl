@@ -2,7 +2,7 @@
 
 @(require "../rkt/main.rkt")
 
-@title[#:style favicon]{Whims}
+@title[#:style favicon #:tag "whims"]{Whims}
 
 @div{whims}
 
