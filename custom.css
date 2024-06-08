@@ -1,0 +1,25 @@
+.versionbox {
+    display: none;
+}
+
+ul, ol {
+    margin: 0 0 1em 0;
+}
+
+li p {
+    margin: 0 0 0 0;
+}
+
+code {
+    display: inline-block;
+    background-color: #e7edf3;
+    padding: 1px 5px;
+    border-radius: 3px;
+    line-height: normal;
+}
+
+pre {
+    margin-left: 1em;
+    border-left: 1px dotted black;
+    padding-left: 1em;
+}
