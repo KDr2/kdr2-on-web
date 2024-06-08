@@ -1,5 +1,5 @@
 #!/bin/bash
-scribble --dest output ++style custom.css --htmls scribble/main.scrbl
+scribble --dest output ++style src/custom.css --htmls scribble/main.scrbl
 
 if [[ "$1" == "sync" ]]; then
    BASENAME=`dirname $0`

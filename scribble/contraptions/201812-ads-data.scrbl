@@ -1,6 +1,6 @@
 #lang scribble/manual
 
-@(require "../../rkt/main.rkt")
+@(require "../../src/main.rkt")
 
 @title[#:style favicon]{Exporting and Restoring data from ApacheDS}
 

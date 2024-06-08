@@ -1,6 +1,6 @@
 #lang scribble/manual
 
-@(require "../../rkt/main.rkt")
+@(require "../../src/main.rkt")
 @(define q "\"")
 
 @title[#:style favicon]{How to type German and Spanish characters}

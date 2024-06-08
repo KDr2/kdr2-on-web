@@ -1,7 +1,7 @@
 #lang scribble/manual
 @;; -*- mode: auto-fill -*-
 
-@(require "../../rkt/main.rkt")
+@(require "../../src/main.rkt")
 
 @title[#:style favicon]{Avoid blurry rendering of SVG paths in Chromium}
 

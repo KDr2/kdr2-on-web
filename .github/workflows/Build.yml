@@ -18,7 +18,7 @@ jobs:
           variant: 'CS'
           version: '8.5'
       # - run: raco pkg install --auto component koyo
-      - run: scribble --dest output ++style custom.css --htmls scribble/main.scrbl
+      - run: scribble --dest output ++style src/custom.css --htmls scribble/main.scrbl
       - name: Deploy to DH
         env:
           CXAN_TOKEN: ${{ secrets.CXAN_TOKEN }}

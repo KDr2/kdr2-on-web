@@ -1,8 +1,8 @@
 #lang scribble/manual
 
-@(require "../rkt/main.rkt")
+@(require "../src/main.rkt")
 
-@title[#:style favicon #:tag "whims"]{Whims}
+@title[#:style favicon #:tag "whims"]{Spark, whims!}
 
 @div{whims}
 

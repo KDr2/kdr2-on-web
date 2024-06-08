@@ -7,12 +7,13 @@
          file-content ext-image)
 
 ;; basic elements
+(define favicon-url "https://res.cloudinary.com/kdr2/image/upload/img-kdr2-com/main/k-favicon.png")
 (define favicon (make-style
                  'favicon
                  (list (head-extra
-                        '(link ([rel "shortcut icon"]
+                        `(link ([rel "shortcut icon"]
                                 [type "image/png"]
-                                [href "https://res.cloudinary.com/kdr2/image/upload/img-kdr2-com/main/k-favicon.png"]))))))
+                                [href ,favicon-url]))))))
 
 (define (div id)
   (make-element

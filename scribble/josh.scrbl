@@ -1,8 +1,8 @@
 #lang scribble/manual
 
-@(require "../rkt/main.rkt")
+@(require "../src/main.rkt")
 
-@title[#:style favicon #:tag "josh"]{Go, Josh!}
+@title[#:style favicon #:tag "josh"]{Shine, Josh!}
 
 My kid, Josh, is a brilliant boy. I jot down funny and happy moments
 we've experienced in this chapter. Also, Josh has

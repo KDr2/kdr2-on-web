@@ -1,5 +1,5 @@
 #lang scribble/manual
 
-@(require "../rkt/main.rkt")
+@(require "../src/main.rkt")
 
 @title[#:style favicon #:tag "preface"]{Preface}
