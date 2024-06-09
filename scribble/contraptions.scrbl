@@ -2,7 +2,7 @@
 
 @(require "../src/main.rkt")
 
-@title[#:style favicon #:tag "contraptions"]{Run, contraptions!}
+@title[#:style favicon #:tag "contraptions"]{Roll, contraptions!}
 
 Our surroundings are increasingly complex today, filled with intricate
 contraptions(e.g., hardware and software) that have become
