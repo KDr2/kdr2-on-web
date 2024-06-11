@@ -13,6 +13,7 @@ mental challenge.
 This chapter is a collection of descriptions of various aspect of
 these contraptions.
 
-@include-section{contraptions/202302-howto-de-es-chars.scrbl}
-@include-section{contraptions/201911-chrome-svg-blur.scrbl}
 @include-section{contraptions/201812-ads-data.scrbl}
+@include-section{contraptions/201911-chrome-svg-blur.scrbl}
+@include-section{contraptions/202302-howto-de-es-chars.scrbl}
+@include-section{contraptions/202406-scribble-md.scrbl}

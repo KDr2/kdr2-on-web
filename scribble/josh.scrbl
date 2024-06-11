@@ -8,83 +8,6 @@ My kid, Josh, is a brilliant boy. I jot down funny and happy moments
 we've experienced in this chapter. Also, Josh has
 @hyperlink["https://joshinbrackets.com/"]{his own website}.
 
-@section{Force cubes}
-
-[2022-09-11]
-
-Yesterday Josh made 6 force cubes from 6 regular 3x3 stikerless
-cubes. The process was very interesting, so I decided to record it
-here.
-
-First, we prepared six regular 3x3 IDENTICAL STICKERLESS cubes:
-
-@ext-image[300]{img-kdr2-com/2022/09/fc-6x3x3-small.jpg}
-
-Then we took them apart into many kinds of pieces: cores, center caps,
-corners, edges.
-
-Cores:
-
-@ext-image[300]{img-kdr2-com/2022/09/fc-cores-small.jpg}
-
-Center Caps:
-
-@ext-image[300]{img-kdr2-com/2022/09/fc-center-caps-small.jpg}
-
-Corners:
-
-@ext-image[300]{img-kdr2-com/2022/09/fc-corners-small.jpg}
-
-Edges:
-
-@ext-image[300]{img-kdr2-com/2022/09/fc-edges-small.jpg}
-
-Then, we sorted the center caps by color and put each group onto a
-core respectively. After that we got this:
-
-Single Colored Cores:
-
-@ext-image[300]{img-kdr2-com/2022/09/fc-single-colored-cores-small.jpg}
-
-The next work was to sparate the corner pieces and edge pieces into
-smaller parts:
-
-Separated Corners:
-
-@ext-image[300]{img-kdr2-com/2022/09/fc-separated-corners-small.jpg}
-
-Separated Edges:
-
-@ext-image[300]{img-kdr2-com/2022/09/fc-separated-edges-small.jpg}
-
-and reassemble them into single colored corner/edge pieces:
-
-Single Colored Corners:
-
-@ext-image[300]{img-kdr2-com/2022/09/fc-reassembled-corners-small.jpg}
-
-Single Colored Edges:
-
-@ext-image[300]{img-kdr2-com/2022/09/fc-reassembled-edges-small.jpg}
-
-At last, we assembled the force cubes:
-
-Force Cubes:
-
-@ext-image[300]{img-kdr2-com/2022/09/fc-force-cubes-small.jpg}
-
-And, Josh also got some other ideas, checkerboard cubes which can
-never be scrambled and sandwich cubes:
-
-Other Cubes:
-
-@ext-image[300]{img-kdr2-com/2022/09/fc-checkerboard-sandwiches-small.jpg}
-
-That's pretty much it, by the way, Josh has a big collection of cubes
-which is listed on @hyperlink["https://joshinbrackets.com"]{his
-website}.
-
-
 @section{Humorous Talk 2021}
 
 @bold{2021.10.25}
@@ -166,3 +89,79 @@ website}.
 }
 
 对我说“这是我给我朋友写的一首诗。”
+
+@section{Force cubes}
+
+[2022-09-11]
+
+Yesterday Josh made 6 force cubes from 6 regular 3x3 stikerless
+cubes. The process was very interesting, so I decided to record it
+here.
+
+First, we prepared six regular 3x3 IDENTICAL STICKERLESS cubes:
+
+@ext-image[300]{img-kdr2-com/2022/09/fc-6x3x3-small.jpg}
+
+Then we took them apart into many kinds of pieces: cores, center caps,
+corners, edges.
+
+Cores:
+
+@ext-image[300]{img-kdr2-com/2022/09/fc-cores-small.jpg}
+
+Center Caps:
+
+@ext-image[300]{img-kdr2-com/2022/09/fc-center-caps-small.jpg}
+
+Corners:
+
+@ext-image[300]{img-kdr2-com/2022/09/fc-corners-small.jpg}
+
+Edges:
+
+@ext-image[300]{img-kdr2-com/2022/09/fc-edges-small.jpg}
+
+Then, we sorted the center caps by color and put each group onto a
+core respectively. After that we got this:
+
+Single Colored Cores:
+
+@ext-image[300]{img-kdr2-com/2022/09/fc-single-colored-cores-small.jpg}
+
+The next work was to sparate the corner pieces and edge pieces into
+smaller parts:
+
+Separated Corners:
+
+@ext-image[300]{img-kdr2-com/2022/09/fc-separated-corners-small.jpg}
+
+Separated Edges:
+
+@ext-image[300]{img-kdr2-com/2022/09/fc-separated-edges-small.jpg}
+
+and reassemble them into single colored corner/edge pieces:
+
+Single Colored Corners:
+
+@ext-image[300]{img-kdr2-com/2022/09/fc-reassembled-corners-small.jpg}
+
+Single Colored Edges:
+
+@ext-image[300]{img-kdr2-com/2022/09/fc-reassembled-edges-small.jpg}
+
+At last, we assembled the force cubes:
+
+Force Cubes:
+
+@ext-image[300]{img-kdr2-com/2022/09/fc-force-cubes-small.jpg}
+
+And, Josh also got some other ideas, checkerboard cubes which can
+never be scrambled and sandwich cubes:
+
+Other Cubes:
+
+@ext-image[300]{img-kdr2-com/2022/09/fc-checkerboard-sandwiches-small.jpg}
+
+That's pretty much it, by the way, Josh has a big collection of cubes
+which is listed on @hyperlink["https://joshinbrackets.com"]{his
+website}.

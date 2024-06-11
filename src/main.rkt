@@ -3,8 +3,11 @@
 (require scribble/core)
 (require scribble/html-properties)
 
+(require markdown)
+(require markdown/scrib)
+
 (provide favicon div script icode cblock
-         file-content ext-image)
+         md file-content ext-image)
 
 ;; basic elements
 (define favicon-url "https://res.cloudinary.com/kdr2/image/upload/img-kdr2-com/main/k-favicon.png")
@@ -46,6 +49,12 @@
 ;; file and text
 (define (file-content path)
   (string-join (file->lines path) "\n"))
+
+;; markdown support
+(define (md . lines)
+  (let* ((str (apply string-append lines))
+         (xpr (parse-markdown str)))
+    (xexprs->scribble-pres xpr)))
 
 ;; images
 (define (cloudinary-url width path)

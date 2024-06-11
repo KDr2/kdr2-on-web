@@ -17,7 +17,7 @@ jobs:
           distribution: 'full'
           variant: 'CS'
           version: '8.5'
-      # - run: raco pkg install --auto component koyo
+      - run: raco pkg install --auto markdown # component koyo
       - run: scribble --dest output ++style src/custom.css --htmls scribble/main.scrbl
       - name: Deploy to DH
         env:
