@@ -1,4 +1,4 @@
-name: Build JoshInBrackets.com
+name: Build killianz.com
 on:
   push:
     branches: [ main ]
