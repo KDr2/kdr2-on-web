@@ -21,7 +21,7 @@ pen has to be in my hand.
 @;; ---------
 @include-section{preface.scrbl}
 @include-section{whims.scrbl}
-@include-section{essays.scrbl}
 @include-section{contraptions.scrbl}
 @include-section{josh.scrbl}
+@include-section{essays.scrbl}
 @include-section{appendices.scrbl}
